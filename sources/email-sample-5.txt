@@ -1,0 +1,22 @@
+From: Kevin Wong <kevin.wong@northbridge.edu>
+To: Emily Carter <emily.carter@northbridge.edu>; Daniel Lee <daniel.lee@northbridge.edu>; Sophia Martinez <sophia.martinez@northbridge.edu>
+Title: Meeting Confirmation and Technical Agenda Items
+
+Dear Emily, Daniel, and Sophia,
+
+I am writing to confirm that I will attend the orientation planning meeting on Tuesday, August 4, from 1:30 p.m. to 3:00 p.m. in Meeting Room 302. I have added the meeting to my calendar and blocked additional time afterward in case we need to continue any technical discussions.
+
+I have reviewed the proposed agenda and will prepare an initial estimate of the technical resources required. The main items are microphones, projectors, presentation computers, internet access, registration tablets, and technical support staff. If some orientation sessions are offered online or recorded, we will also need cameras, video-conferencing accounts, and consent procedures for participants who appear in recordings.
+
+I recommend that we discuss the registration system near the beginning of the meeting. We need to know the expected number of students, the information they must submit, and whether they will register for individual sessions. These decisions will affect the design of the online form and the number of devices needed at the registration desks.
+
+I will also raise the issue of backup plans. Equipment failures and unstable internet connections can cause serious delays, so each major presentation should be available on more than one computer. We should also prepare printed attendance lists and emergency contact information in case the online system becomes unavailable.
+
+Finally, I agree with Daniel’s suggestion that we use an online survey to evaluate the program. My team can create the survey and generate a summary report after the event.
+
+I look forward to meeting everyone and finalizing the program.
+
+Best regards,
+Kevin Wong
+Manager of Information Technology Services
+Northbridge University
