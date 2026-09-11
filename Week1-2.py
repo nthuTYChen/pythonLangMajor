@@ -1,4 +1,4 @@
-# A statement working with a string
+# A statement working with a string enclosed in a pair of single/double quotation marks.
 print("This is a string.")
 print('This is also a string.')
 
@@ -11,7 +11,9 @@ print(3.14159)
 print("1000")
 
 # Function: function_name()
-print(type("This is a string."))
-print(type(1000))
-print(type(3.14159))
-print(type("1000"))
+# type() a function that identifies the data type
+# Print the data type identified by type()
+print(type("This is a string.")) # str = string
+print(type(1000)) # int = integer
+print(type(3.14159)) # float = floating number
+print(type("1000")) # str = string
