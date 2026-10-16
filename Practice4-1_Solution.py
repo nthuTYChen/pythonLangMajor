@@ -26,7 +26,7 @@ print(result1)
 
 result2 = get_number(5)
 # Change 6: Should print result2 here rather than result1
-print(result1)
+print(result2)
 
 result3 = get_number(8)
 print(result3)
